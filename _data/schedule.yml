@@ -1,0 +1,361 @@
+- date: T 01/14
+  lecturer:
+  title: >
+    <strong>Course overview & Introduction</strong>
+  slides: https://drive.google.com/file/d/19f1detF4gjscimAHnDEBEHumOa8SkSHj/view?usp=sharing
+  video:
+  notes:
+  readings:
+    - P&D 1.1 and 1.2
+    - K&R 1.1 and 1.3
+  logistics:
+    - Assignment 0 is out
+
+- date: Th 01/16
+  lecturer:
+  title: >
+    <strong>Network architecture and performance</strong>
+  slides: https://drive.google.com/file/d/1EH_hbVfrmW8UvZzm1ej-VR3tsr_ZLEIH/view?usp=drive_link
+  video:
+  notes:
+  readings:
+  - P&D 1.3 and 1.5
+  - K&R 1.4 and 1.5
+  logistics:
+
+- date: T 01/21
+  lecturer:
+  title: >
+    <strong>Socket API</strong>
+  recitation:
+  slides: https://drive.google.com/file/d/1EUwLstk0ZFrouMEJiqoHskqCAS-i2BcD/view?usp=drive_link
+  notes:
+  video:
+  readings:
+  - P&D 1.4
+  - K&R 2.7
+  - <a href="https://github.com/utcs356/socket-example">Example code</a>
+  logistics:
+
+- date: Th 01/23
+  lecturer:
+  title: >
+    <strong>Data Link Layer</strong>
+  recitation:
+  slides: https://drive.google.com/file/d/15lAcwiWzIULGmbHjP8b50AiqBRrj_WAv/view?usp=drive_link
+  notes:
+  video:
+  readings:
+  - P&D 2.1 - 2.3
+  - K&R 6.1
+
+  logistics:
+  - Assignment 0 is due <br/>
+  - Assignment 1 is out
+
+- date: T 01/28
+  lecturer:
+  title: >
+    <strong>Switched LAN</strong>
+  recitation:
+  slides: https://drive.google.com/file/d/16SLd50yDh-G_VPSWV0WgE0ixB6PUowAw/view?usp=drive_link
+  notes:
+  video:
+  readings:
+  - P&D 2.4 - 2.5 and 3.1 - 3.2
+  - K&R 6.2.3 and 6.4
+  logistics:
+
+- date: Th 01/30
+  lecturer:
+  title: >
+    <strong>Wireless LAN</strong>
+  recitation:
+  slides: https://drive.google.com/file/d/16Y5PTuj4UlUgnfzxuJg2e6Wl0fPrnkoo/view?usp=drive_link
+  notes:
+  video:
+  readings:
+  - P&D 2.7
+  - K&R 7.3
+  logistics:
+
+- date: T 02/04
+  lecturer:
+  title: >
+    <strong>Programming switches</strong>
+  recitation:
+  slides: https://drive.google.com/file/d/16yRdnd97bhgVGXNHuGJxlB4GVyeIpCaS/view?usp=drive_link
+  notes:
+  video:
+  readings:
+  - <a href="https://p4.org/p4-spec/docs/P4-16-v1.2.4.pdf">P4 language spec</a>
+  - P&D 3.5
+  logistics:
+  - Assignment 1 is due
+  - Assignment 2 is out
+
+- date: Th 02/06
+  lecturer:
+  title: >
+    <strong>Quiz 1 Review</strong>
+  recitation:
+  slides: https://drive.google.com/file/d/17hCpkSXT7MnsZv4cBBrgSvxxrG8HbO7m/view?usp=drive_link
+  notes:
+  video:
+  readings:
+  logistics:
+
+- date: T 02/11
+  quiz: >
+    <strong>Quiz 1</strong>
+  logistics:
+
+- date: Th 02/13
+  lecturer:
+  title: >
+    <strong>Network layer: Internet protocol</strong>
+  recitation:
+  slides: https://drive.google.com/file/d/186rMwgyrOVbVmRz8YbteNYUUcZgSUm5Y/view?usp=drive_link
+  notes:
+  video:
+  readings:
+  - P&D 3.3
+  - K&R 4.3
+  logistics:
+
+- date: T 02/18
+  lecturer:
+  title: >
+    <strong>IP (cont'd) & Intra-domain routing</strong>
+  recitation:
+  slides: https://drive.google.com/file/d/1Fh8dwhnYPV4g1a11y5APPEmbSi4MJ6mw/view?usp=drive_link
+  notes:
+  video:
+  readings:
+  - P&D 3.3 - 3.4
+  - K&R 5.2
+  logistics:
+
+- date: Th 02/20
+  lecturer:
+  title: >
+    <strong>Intra-domain routing (cont'd)</strong>
+  recitation:
+  slides: https://drive.google.com/file/d/18GV-PFZ_FY2-McY1leg5BHU8_ML4czEm/view?usp=drive_link
+  notes:
+  video:
+  readings:
+  - P&D 3.4
+  - K&R 5.2
+  logistics:
+
+- date: T 02/25
+  lecturer:
+  title: >
+    <strong>Inter-domain routing & Border Gateway Protocol (BGP)</strong>
+  recitation:
+  slides: https://drive.google.com/file/d/1FkDJ685QTWHL3NMUAzKK9CWLazsIzUPT/view?usp=drive_link
+  notes:
+  video:
+  readings:
+  - P&D 4.1
+  - K&R 5.1
+  logistics:
+
+- date: Th 02/27
+  lecturer:
+  title: >
+    <strong>BGP (Cont'd)</strong>
+  recitation:
+  slides: https://drive.google.com/file/d/18ks5dm9XMEH1MQuNtE6NLi1reBeST-Ei/view?usp=drive_link
+  notes:
+  video:
+  readings:
+  - P&D 4.1
+  - K&R 5.1
+  logistics:
+  - Assignment 2 is due
+  - Assignment 3 is out
+
+- date: T 03/04
+  lecturer:
+  title: >
+    <strong>Transport layer overview</strong>
+  recitation:
+  slides: https://drive.google.com/file/d/18s80hn-2Vmb1z2GqY14BBg_5mOU_q-4Z/view?usp=drive_link
+  notes:
+  video:
+  readings:
+  - P&D 2.5 and 5.1
+  - K&R 3.1 - 3.4
+  logistics:
+
+- date: Th 03/06
+  lecturer:
+  title: >
+    <strong>TCP Basics</strong>
+  recitation:
+  slides: https://drive.google.com/file/d/1G3qCg1K-yRtH9xKgOg9K5e5dGRwTb1RD/view?usp=drive_link
+  notes:
+  video:
+  readings:
+  - P&D 5.2
+  - K&R 3.5
+  logistics:
+
+- date: T 03/11
+  lecturer:
+  title: >
+    <strong>Quiz 2 Review</strong>
+  recitation:
+  slides: https://drive.google.com/file/d/1G8tTFzmSJEAQ4QLyI626bLPAOuBl2u09/view?usp=drive_link
+  notes:
+  video:
+  readings:
+  logistics:
+
+- date: Th 03/13
+  lecturer:
+  quiz: >
+    <strong>Quiz 2 (UTC 4.102)</strong>
+  logistics:
+  - Assignment 3 is due
+  - Assignment 4 is out
+
+
+- date: T 03/18
+  lecturer:
+  quiz: >
+    <strong>Spring break - No Classes</strong>
+  logistics:
+
+- date: Th 03/20
+  lecturer:
+  quiz: >
+    <strong>Spring break - No Classes</strong>
+  logistics:
+
+- date: T 03/25
+  lecturer:
+  title: >
+    <strong>Flow and congestion control</strong>
+  recitation:
+  slides: https://drive.google.com/file/d/19InYNzmNO57-DYTPzveaOPi5EnujVR8A/view?usp=drive_link
+  notes:
+  video:
+  readings:
+  - P&D 5.2.4, 6.3.1, and 6.3.2
+  - K&R 3.5.5, 3.6, and 3.7.1
+  logistics:
+
+- date: Th 03/27
+  lecturer:
+  title: >
+    <strong>Congestion control (Cont'd)</strong>
+  recitation:
+  slides: https://drive.google.com/file/d/19SXu5iRFVA6xNgSoO83_pRZMg3mstiSm/view?usp=drive_link
+  notes:
+  video:
+  readings:
+  - P&D 6.3.2 and 6.3.3
+  - K&R 3.7
+  logistics:
+
+- date: T 04/01
+  lecturer:
+  title: >
+    <strong>Router-based resource allocation</strong>
+  recitation:
+  slides: https://drive.google.com/file/d/1Gc2QEU0p1r2FkP0UQE1OYmRjaoNoCfdQ/view?usp=drive_link
+  notes:
+  video:
+  readings:
+  - P&D 6.1 and 6.2
+ 
+  logistics:
+
+- date: Th 04/03
+  lecturer:
+  title: >
+    <strong>Domain name system (DNS)</strong>
+  recitation:
+  slides: https://drive.google.com/file/d/19T4nPOw3yCObgJwunDdHneE5pL8wy0rL/view?usp=drive_link
+  notes:
+  video:
+  readings:
+  - P&D 9.3.1
+  - K&R 2.4
+  logistics:
+
+- date: T 04/08
+  lecturer:
+  title: >
+    <strong>Web and Email</strong>
+  recitation:
+  slides: https://drive.google.com/file/d/1GghVosiUIYIHv-YCdOyoaMsSqmBH7E4c/view?usp=drive_link
+  notes:
+  video:
+  readings:
+  - P&D 9.1
+  - K&R 2.2 and 2.3
+  logistics:
+  - Assignment 4 is due
+  - Assignment 5 is out
+
+- date: Th 04/10
+  lecturer:
+  title: >
+    <strong>Content distribution network (CDN)</strong>
+  recitation:
+  slides: https://drive.google.com/file/d/1GmjParKVr0kyac83KZfPxrn0V2yWaJ7i/view?usp=drive_link
+  notes:
+  video:
+  readings:
+  - P&D 9.4.3
+  - K&R 2.2.5 and 2.6.3
+  logistics:
+
+- date: T 04/15
+  lecturer:
+  title: >
+    <strong>Network security (1)</strong>
+  recitation:
+  slides: https://drive.google.com/file/d/19wJHRjXaFphawC0eA3yA9yH93W6DMWyp/view?usp=drive_link
+  notes:
+  video:
+  readings:
+  - P&D 8.1--8.2
+  - K&R 8.1--8.2 
+  logistics:
+
+- date: Th 04/17
+  lecturer:
+  title: >
+    <strong>Network security (2)</strong>
+  recitation:
+  slides: https://drive.google.com/file/d/1GoB2thalgXteRBvrxtpgwSM2HF8mXcUR/view?usp=drive_link
+  notes:
+  video:
+  readings:
+  - P&D 8.3--8.5 (8.5.3 and 8.5.6)
+  - K&R 8.3--8.4 and 8.9
+  logistics:
+
+- date: T 04/22
+  lecturer:
+  title: >
+    <strong>Machine learning for networking and Wrap-up</strong>
+  recitation:
+  slides: https://drive.google.com/file/d/1A_Fa56UkhOuKts_-6WIJ_TaM2rh12vDZ/view?usp=drive_link
+  notes:
+  video:
+  readings:
+  - Papers mentioned in the slide
+  logistics:
+
+- date: Th 04/24
+  lecturer:
+  quiz: >
+    <strong>Quiz 3 (UTC 4.102)</strong>
+  logistics:
+  - Assignment 5 is due
