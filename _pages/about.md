@@ -9,7 +9,7 @@ news: true
 
 ### Course Overview (TBD)
 
-Welcome to CS 395T, Advanced Topics in Systems and GenAI! This is a graduate-level reading seminar on machine learning and computer systems. In this course we will explore the state of the art in how machine learning is being used in systems, why, and where there are opportunities for further advancement. The objectives of this course are:
+This is a graduate-level reading seminar on machine learning and computer systems. In this course we will explore the state of the art in how machine learning is being used in systems, why, and where there are opportunities for further advancement. The objectives of this course are:
 
 * To understand the different types of systems problems to which machine learning can apply, understand the trajectory of the field both both the machine learning and systems side, and identify key open issues.
 * To critically review research papers at the intersection of machine learning and systems.
