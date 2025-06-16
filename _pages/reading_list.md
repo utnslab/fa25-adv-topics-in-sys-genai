@@ -4,4 +4,4 @@ permalink: /reading-list/
 title: Reading List
 ---
 
-WIP
+Reading list WIP.
