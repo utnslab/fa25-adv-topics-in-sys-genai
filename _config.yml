@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 author: 
-name: "CS 395T: Advanced Topics in Systems and GenAI"
+name: "Advanced Topics in Sys/GenAI"
 title: Systems and GenAI
 email: 
 description: >
-  CS 395T: Advanced Topics in Systems and Generative AI - The University of Texas at Austin - Fall 2025
+  (Fall 2025) CS 395T: Advanced Topics in Systems and Generative AI - The University of Texas at Austin
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 

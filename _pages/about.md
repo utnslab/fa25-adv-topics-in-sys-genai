@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: Welcome to CS 395T - Advanced Topics in Systems and GenAI!
+title: "Welcome to CS 395T: Advanced Topics in Systems and GenAI for Fall 2025!"
 description: CS 395T Systems and GenAI - University of Texas at Austin
 logo: 
 news: true
