@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /logistics/
-title: Logistics (TBD)
+title: Logistics
 ---
 
 * (The list will be replaced with the table of contents.)

@@ -7,30 +7,36 @@ logo:
 news: true
 ---
 
-### Course Overview (TBD)
+**CS 395T: Advanced Topics in Systems and GenAI (Fall 2025)** is a graduate-level reading and project seminar investigating how *modern generative AI*—large language, vision and multimodal models—interacts with *computer systems*. We will study:
+ * _Systems for GenAI_—scaling, serving, and optimising LLMs, diffusion and agentic workloads
+ * _GenAI for Systems_—how foundation models can design, debug or operate complex infrastructure.
 
-This is a graduate-level reading seminar on machine learning and computer systems. In this course we will explore the state of the art in how machine learning is being used in systems, why, and where there are opportunities for further advancement. The objectives of this course are:
+By the end of the semester you will have:
+ * Surveyed the state of the art
+ * Practiced critical paper reviewing
+ * Explored research problems through a semester-long research project
 
-* To understand the different types of systems problems to which machine learning can apply, understand the trajectory of the field both both the machine learning and systems side, and identify key open issues.
-* To critically review research papers at the intersection of machine learning and systems.
-* To explore research problems and investigate new ideas through a semester-long research project.
+The course is structured around lectures by the instructor [Aditya Akella](https://www.cs.utexas.edu/~akella/), guest lectures, and paper readings/presentations by the students with open discussion. Details will be posted on the [**Schedule**]({{ '/schedule/' | relative_url }}) tab.  Students will form a project group (two or three students) and conduct a research project on applying machine learning to systems.
 
-The course is structured around lectures by the instructor [Aditya Akella](https://www.cs.utexas.edu/~akella/), guest lectures, and paper readings/presentations by the students with open discussion. Students will form a project group (two or three students) and conduct a research project on applying machine learning to systems.
+See the [**Logistics**]({{ '/logistics/' | relative_url }}) tab for detailed information on course organization and policies.
 
-### Topics (TBD)
+### What We Will Cover
 
-* Why use machine learning in systems
-* Types of systems problems to which learning applied, examples include:
-  * Learned data structures
-  * Leanred algorithms
-  * Learning system configuration
-  * Learning system controllers
-  * Simulations and trace generation
-  * Dealing with messy and unpredictable environments
-* Open issues, including:
-  * Suitable system support to enable low-overhead ML use
-  * Lack of compositionality in, and guarantees for, learned algorithms
-  * Integrating code and models
+A tentative reading list lives on the [**Reading List**]({{ '/reading-list/' | relative_url }}) tab and draws heavily from OSDI/SOSP, ASPLOS, SIGCOMM, NSDI, MLSys and Nature papers.
+
+#### Part 1 – LLMs as the Backbone of Modern AI  
+* Parallel & elastic training (3D, MoE, fault-tolerance)  
+* Networking for multi-datacentre scale  
+* Low-latency, energy-aware inference & serving
+
+#### Part 2 – GenAI Beyond Text  
+* Diffusion and video generation systems  
+* Retrieval-augmented pipelines and multi-agent orchestration  
+* Cloud/edge schedulers for multimodal workloads
+
+#### Part 3 – GenAI for Systems  
+* AI-assisted formal verification, configuration and workload synthesis
+* LLM-powered debugging, root-cause analysis & telemetry
 
 ***
 
