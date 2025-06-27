@@ -1,0 +1,5 @@
+{% assign p = site.data.papers[include.key] %}
+<li markdown="span">
+  <a href="{{ p.url }}">{{ p.title }}</a><br/>
+  <em>{{ p.authors }}</em>. {{ p.booktitle }}.
+</li>

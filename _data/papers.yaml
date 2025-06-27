@@ -1,0 +1,227 @@
+megatron-sc21:
+  title: "Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM"
+  authors: "Deepak Narayanan, Mohammad Shoeybi, Jared Casper, Patrick LeGresley, Mostofa Patwary, Vijay Anand Korthikanti, Dmitri Vainbrand, Prethvi Kashinkunti, Julie Bernauer, Bryan Catanzaro, Amar Phanishayee, and Matei Zaharia"
+  booktitle: "SC 21"
+  url: "https://arxiv.org/pdf/2104.04473.pdf"
+
+activationrecompute-mlsys23:
+  title: "Reducing Activation Recomputation in Large Transformer Models"
+  authors: "Vijay A. Korthikanti, Jared Casper, Sangkug Lym, Lawrence McAfee, Michael Andersch, Mohammad Shoeybi, and Bryan Catanzaro"
+  booktitle: "MLSys 23"
+  url: "https://proceedings.mlsys.org/paper_files/paper/2023/file/80083951326cf5b35e5100260d64ed81-Paper-mlsys2023.pdf"
+
+llama3-2024:
+  title: "The Llama 3 Herd of Models"
+  authors: "Aaron Grattafiori et al."
+  booktitle: "Meta AI Technical Report (2024)"
+  url: "https://arxiv.org/pdf/2407.21783.pdf"
+
+concerto-asplos25:
+  title: "Concerto: Automatic Communication Optimization and Scheduling for Large-Scale Deep Learning"
+  authors: "Shenggan Cheng, Shengjie Lin, Lansong Diao, Hao Wu, Siyu Wang, Chang Si, Ziming Liu, Xuanlei Zhao, Jiangsu Du, Wei Lin, and Yang You"
+  booktitle: "ASPLOS 25"
+  url: "https://dl.acm.org/doi/pdf/10.1145/3669940.3707223"
+
+alpa-osdi22:
+  title: "Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning"
+  authors: "Lianmin Zheng, Siyuan Zhuang, Zhuohan Li, Heng Zhang, Joseph E. Gonzalez, and Ion Stoica"
+  booktitle: "OSDI 22"
+  url: "https://www.usenix.org/system/files/osdi22-zheng-lianmin.pdf"
+
+rdma-sigcomm24:
+  title: "RDMA over Ethernet for Distributed Training at Meta Scale"
+  authors: "Adithya Gangidi, Rui Miao, Shengbao Zheng, Sai J. Bondu, Guilherme Goes, Hany Morsy, Rohit Puri, Mohammad Riftadi, Ashmitha J. Shetty, Jingyi Yang, Shuqiang Zhang, Mikel Jimenez Fernandez, Shashidhar Gandham, and Hongyi Zeng"
+  booktitle: "SIGCOMM 24"
+  url: "https://cs.stanford.edu/~keithw/sigcomm2024/sigcomm24-final246-acmpaginated.pdf"
+
+cassini-nsdi24:
+  title: "CASSINI: Network-Aware Job Scheduling in Machine Learning Clusters"
+  authors: "Sudarsanan Rajasekaran, Manya Ghobadi, and Aditya Akella"
+  booktitle: "NSDI 24"
+  url: "https://www.usenix.org/system/files/nsdi24-rajasekaran.pdf"
+
+oobleck-sosp23:
+  title: "Oobleck: Resilient Distributed Training of Large Models Using Pipeline Templates"
+  authors: "Insu Jang, Zhenning Yang, Zhen Zhang, Xin Jin, and Mosharaf Chowdhury"
+  booktitle: "SOSP 23"
+  url: "https://arxiv.org/pdf/2309.08125.pdf"
+
+pagedattention-sosp23:
+  title: "Efficient Memory Management for Large Language Model Serving with PagedAttention"
+  authors: "Woosuk Kwon, Zhuohan Li, Siyuan Zhuang, Ying Sheng, Lianmin Zheng, Cody Hao Yu, Joseph E. Gonzalez, Hao Zhang, and Ion Stoica"
+  booktitle: "SOSP 23"
+  url: "https://arxiv.org/pdf/2309.06180.pdf"
+
+splitwise-isca24:
+  title: "SplitWise: Efficient Generative LLM Inference Using Phase Splitting"
+  authors: "Pratyush Patel, Esha Choukse, Chaojie Zhang, Aashaka Shah, Íñigo Goiri, Saeed Maleki, and Ricardo Bianchini"
+  booktitle: "ISCA 24"
+  url: "https://arxiv.org/pdf/2311.18677.pdf"
+
+nanoflow-arxiv24:
+  title: "NanoFlow: Towards Optimal Large Language Model Serving Throughput"
+  authors: "Kan Zhu, Yilong Zhao, Liangyu Zhao, Gefei Zuo, Yile Gu, Dedong Xie, Yufei Gao, Qinyu Xu, Tian Tang, Zihao Ye, Keisuke Kamahori, Chien-Yu Lin, Stephanie Wang, Arvind Krishnamurthy, and Baris Kasikci"
+  booktitle: "arXiv (2024)"
+  url: "https://arxiv.org/pdf/2408.12757.pdf"
+
+llumnix-osdi24:
+  title: "Llumnix: Dynamic Scheduling for Large Language Model Serving"
+  authors: "Biao Sun, Ziming Huang, Hanyu Zhao, Wencong Xiao, Xinyi Zhang, Yong Li, and Wei Lin"
+  booktitle: "OSDI 24"
+  url: "https://www.usenix.org/system/files/osdi24-sun-biao.pdf"
+
+sarathiserve-osdi24:
+  title: "Taming Throughput–Latency Trade-off in LLM Inference with Sarathi-Serve"
+  authors: "Amey Agrawal, Nitin Kedia, Ashish Panwar, Jayashree Mohan, Nipun Kwatra, Bhargav S. Gulavani, Alexey Tumanov, and Ramachandran Ramjee"
+  booktitle: "OSDI 24"
+  url: "https://www.usenix.org/system/files/osdi24-agrawal.pdf"
+
+moe-iclr17:
+  title: "Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer"
+  authors: "Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis, Quoc V. Le, Geoffrey E. Hinton, and Jeff Dean"
+  booktitle: "ICLR 17"
+  url: "https://arxiv.org/pdf/1701.06538.pdf"
+
+switch-jmlr22:
+  title: "Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity"
+  authors: "William Fedus, Barret Zoph, and Noam Shazeer"
+  booktitle: "JMLR 23"
+  url: "https://arxiv.org/pdf/2101.03961.pdf"
+
+fsmoe-asplos25:
+  title: "FSMoE: A Flexible and Scalable Training System for Sparse Mixture-of-Experts Models"
+  authors: "Xinglin Pan, Wenxiang Lin, Lin Zhang, Shaohuai Shi, Zhenheng Tang, Rui Wang, Bo Li, and Xiaowen Chu"
+  booktitle: "ASPLOS 25"
+  url: "https://arxiv.org/pdf/2501.10714.pdf"
+
+pregatedmoe-isca24:
+  title: "Pre-Gated MoE: An Algorithm-System Co-Design for Fast and Scalable Mixture-of-Expert Inference"
+  authors: "Ranggi Hwang, Jianyu Wei, Shijie Cao, Changho Hwang, Xiaohu Tang, Ting Cao, and Mao Yang"
+  booktitle: "ISCA 24"
+  url: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10609634"
+
+readme-neurips24:
+  title: "Read-ME: Refactorizing LLMs as Router-Decoupled Mixture-of-Experts with System Co-Design"
+  authors: "Ruisi Cai, Yeonju Ro, Geon-Woo Kim, Peihao Wang, Babak Ehteshami Bejnordi, Aditya Akella, and Zhangyang Wang"
+  booktitle: "NeurIPS 24"
+  url: "https://proceedings.neurips.cc/paper_files/paper/2024/file/d298cf34e4539f9134db7f38b42f69fe-Paper-Conference.pdf"
+
+approxcache-nsdi24:
+  title: "Approximate Caching for Efficiently Serving Text-to-Image Diffusion Models"
+  authors: "Shubham Agarwal, Subrata Mitra, Sarthak Chakraborty, Srikrishna Karanam, Koyel Mukherjee, and Shiv K. Saini"
+  booktitle: "NSDI 24"
+  url: "https://www.usenix.org/system/files/nsdi24-agarwal-shubham.pdf"
+
+diffserve-mlsys24:
+  title: "DiffServe: Efficiently Serving Text-to-Image Diffusion Models with Query-Aware Model Scaling"
+  authors: "Sohaib Ahmad, Qizheng Yang, Haoliang Wang, Ramesh K. Sitaraman, and Hui Guan"
+  booktitle: "MLSys 24"
+  url: "https://arxiv.org/pdf/2411.15381.pdf"
+
+moviegen-arxiv24:
+  title: "MovieGen: A Cast of Media Foundation Models"
+  authors: "Meta AI Research"
+  booktitle: "arXiv 2024"
+  url: "https://arxiv.org/pdf/2410.13720.pdf"
+
+xgenmm-arxiv24:
+  title: "xGen-MM (BLIP-3): A Family of Open Large Multimodal Models"
+  authors: "Le Xue, Manli Shu, Anas Awadalla, Jun Wang, An Yan, Senthil Purushwalkam, et al."
+  booktitle: "arXiv 2024 (v3 2025)"
+  url: "https://arxiv.org/pdf/2408.08872.pdf"
+
+streamingdiffusion-arxiv24:
+  title: "Streaming Video Diffusion: Online Video Editing with Diffusion Models"
+  authors: "Feng Chen, Zhen Yang, Bohan Zhuang, and Qi Wu"
+  booktitle: "arXiv 2024"
+  url: "https://arxiv.org/pdf/2405.19726.pdf"
+
+modserve-preprint24:
+  title: "ModServe: Scalable and Resource-Efficient Large Multimodal Model Serving"
+  authors: "Haoran Qiu, Yihan Wang, Yao Zhang, Minjia Zhang, Jianping Fan, and Yuxiong He"
+  booktitle: "Preprint 2024"
+  url: "https://haoran-qiu.com/pdf/modserve-preprint.pdf"
+
+dream-asplos23:
+  title: "DREAM: A Dynamic Scheduler for Dynamic Real-Time Multi-Model ML Workloads"
+  authors: "Seah Kim, Hyoukjun Kwon, Jinook Song, Jihyuck Jo, Yu-Hsin Chen, Liangzhen Lai, and Vikas Chandra"
+  booktitle: "ASPLOS 23"
+  url: "https://arxiv.org/pdf/2212.03414.pdf"
+
+rago-arxiv25:
+  title: "RAGO: Systematic Performance Optimization for Retrieval-Augmented Generation Serving"
+  authors: "Wenqi Jiang, Suvinay Subramanian, Cat Graves, Gustavo Alonso, Amir Yazdanbakhsh, and Vidushi Dadu"
+  booktitle: "arXiv 2025"
+  url: "https://arxiv.org/pdf/2503.14649.pdf"
+
+telerag-arxiv25:
+  title: "TeleRAG: Efficient Retrieval-Augmented Generation Inference with Lookahead Retrieval"
+  authors: "Chien-Yu Lin, Keisuke Kamahori, Yiyu Liu, Xiaoxiang Shi, Madhav Kashyap, Yile Gu, Zihao Ye, Stephanie Wang, Arvind Krishnamurthy, and Baris Kasikci"
+  booktitle: "arXiv 2025"
+  url: "https://arxiv.org/pdf/2502.20969.pdf"
+
+autellix-arxiv25:
+  title: "Autellix: An Efficient Serving Engine for LLM Agents as General Programs"
+  authors: "Michael Luo, Xiaoxiang Shi, Colin Cai, Tianjun Zhang, Justin Wong, Yichuan Wang, Chi Wang, Yanping Huang, Zhifeng Chen, Joseph E. Gonzalez, and Ion Stoica"
+  booktitle: "arXiv 2025"
+  url: "https://arxiv.org/pdf/2502.13965.pdf"
+
+parrot-osdi24:
+  title: "Parrot: Efficient Serving of LLM-based Applications with Semantic Variable"
+  authors: "Chaofan Lin, Zhenhua Han, Chengruidong Zhang, Yuqing Yang, Fan Yang, Chen Chen, and Lili Qiu"
+  booktitle: "OSDI 24"
+  url: "https://www.usenix.org/system/files/osdi24-lin-chaofan.pdf"
+
+testcompute-iclr25:
+  title: "Scaling LLM Test-Time Compute Optimally Can Be More Effective than Scaling Model Parameters"
+  authors: "Charlie Snell, Jaehoon Lee, Kelvin Xu, and Aviral Kumar"
+  booktitle: "ICLR 25"
+  url: "https://arxiv.org/pdf/2408.03314.pdf"
+
+fmp-arxiv25:
+  title: "Resource-efficient Inference with Foundation Model Programs"
+  authors: "Lunyiu Nie, Zhimin Ding, Kevin Yu, Marco Cheung, Christopher Jermaine, and Swarat Chaudhuri"
+  booktitle: "arXiv 2025"
+  url: "https://arxiv.org/pdf/2504.07247"
+
+certaindex-arxiv24:
+  title: "Efficiently Serving LLM Reasoning Programs with Certaindex"
+  authors: "Yichao Fu, Junda Chen, Siqi Zhu, Zheyu Fu, Zhongdongming Dai, Aurick Qiao, and Hao Zhang"
+  booktitle: "arXiv 2024"
+  url: "https://arxiv.org/pdf/2412.20993.pdf"
+
+curie-arxiv25:
+  title: "Curie: Toward Rigorous and Automated Scientific Experimentation with AI Agents"
+  authors: "Patrick T. J. Kon, Jiachen Liu, Qiuyi Ding, Yiming Qiu, Zhenning Yang, Yibo Huang, Jayanth Srinivasa, Myungjin Lee, Mosharaf Chowdhury, and Ang Chen"
+  booktitle: "arXiv 2025"
+  url: "https://arxiv.org/pdf/2502.16069.pdf"
+
+funsearch-nature23:
+  title: "Mathematical Discoveries from Program Search with Large Language Models (FunSearch)"
+  authors: "Matej Balog, Bernhard Schölkopf, Karl Tuyls, Oriol Vinyals, Pushmeet Kohli, and Ulrich Paquet"
+  booktitle: "Nature 2023"
+  url: "https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models/Mathematical-discoveries-from-program-search-with-large-language-models.pdf"
+
+alphaevolve-whitepaper25:
+  title: "AlphaEvolve: A Coding Agent for Scientific and Algorithmic Discovery"
+  authors: "Alexander Novikov, Ngân Vũ, Marvin Eisenberger, Emilien Dupont, Po-Sen Huang, Adam Z. Wagner, Sergey Shirobokov, Borislav Kozlovskii, Francisco J. R. Ruiz, et al."
+  booktitle: "DeepMind White Paper 2025"
+  url: "https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/AlphaEvolve.pdf"
+
+netllm-sigcomm24:
+  title: "NetLLM: Adapting Large Language Models for Networking"
+  authors: "Duo Wu, Xianda Wang, Yaqi Qiao, Zhi Wang, Junchen Jiang, Shuguang Cui, and Fangxin Wang"
+  booktitle: "SIGCOMM 24"
+  url: "https://pages.mmlab.top/publications/sigcomm24-netllm.pdf"
+
+textgrad-arxiv24:
+  title: "TextGrad: Automatic \"Differentiation\" via Text"
+  authors: "Mert Yuksekgonul, Federico Bianchi, Joseph Boen, Sheng Liu, Zhi Huang, Carlos Guestrin, and James Zou"
+  booktitle: "arXiv 2024"
+  url: "https://arxiv.org/pdf/2406.07496.pdf"
+
+zoom2net-sigcomm24:
+  title: "Zoom2Net: Constrained Network Telemetry Imputation"
+  authors: "Xizheng Wang, Yuxiong He, Maria Apostolaki, Xin Jin, Mohammad Alizadeh, and Jennifer Rexford"
+  booktitle: "SIGCOMM 24"
+  url: "https://cs.stanford.edu/~keithw/sigcomm2024/sigcomm24-final114-acmpaginated.pdf"
