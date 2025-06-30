@@ -16,7 +16,7 @@ By the end of the semester you will have:
  * Practiced critical paper reviewing
  * Explored research problems through a semester-long research project
 
-The course is structured around lectures by the instructor [Aditya Akella](https://www.cs.utexas.edu/~akella/), guest lectures, and paper readings/presentations by the students with open discussion. Details will be posted on the [**Schedule**]({{ '/schedule/' | relative_url }}) tab.  Students will form a project group (two or three students) and conduct a research project on applying machine learning to systems.
+The course is structured around lectures by the instructor [Aditya Akella](https://www.cs.utexas.edu/~akella/), guest lectures, and paper readings/presentations by the students with open discussion. Details will be posted on the [**Schedule**]({{ '/schedule/' | relative_url }}) tab.  Students will form a project group (two or three students) and conduct a research project on systems and generative AI.
 
 See the [**Logistics**]({{ '/logistics/' | relative_url }}) tab for detailed information on course organization and policies.
 
