@@ -16,6 +16,12 @@ activationrecompute-mlsys23:
   booktitle: "MLSys 23"
   url: "https://proceedings.mlsys.org/paper_files/paper/2023/file/80083951326cf5b35e5100260d64ed81-Paper-mlsys2023.pdf"
 
+wlbllm-osdi25:
+  title: "WLB-LLM: Workload-Balanced 4D Parallelism for Large Language Model Training"
+  authors: "Zheng Wang, Anna Cai, Xinfeng Xie, Zaifeng Pan, Yue Guan, Weiwei Chu, Jie Wang, Shikai Li, Jianyu Huang, Chris Cai, Yuchen Hao, and Yufei Ding"
+  booktitle: "OSDI 25"
+  url: "https://www.usenix.org/conference/osdi25/presentation/wang-zheng"
+
 llama3-2024:
   title: "The Llama 3 Herd of Models"
   authors: "Aaron Grattafiori et al."

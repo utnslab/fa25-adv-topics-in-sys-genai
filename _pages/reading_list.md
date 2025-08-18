@@ -12,7 +12,7 @@ title: ""
     <b>(Required)</b> <a href="https://arxiv.org/pdf/2407.21783">The Llama 3 Herd of Models</a> (Sections 2, 3.3, and 4.1), <br/><em>Llama Team, AI @ Meta</em>
   </li>
   {% include paper_item.html key="megatron-sc21" required=true %}
-  {% include paper_item.html key="activationrecompute-mlsys23" required=false %}
+  {% include paper_item.html key="wlbllm-osdi25" required=false %}
 </ul>
 
 #### Scaling LLM Pre-Training
