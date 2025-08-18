@@ -286,10 +286,10 @@ testcompute-iclr25:
   booktitle: "ICLR 25"
   url: "https://arxiv.org/pdf/2408.03314.pdf"
 
-fmp-arxiv25:
+fmp-colm25:
   title: "Resource-efficient Inference with Foundation Model Programs"
   authors: "Lunyiu Nie, Zhimin Ding, Kevin Yu, Marco Cheung, Christopher Jermaine, and Swarat Chaudhuri"
-  booktitle: "arXiv 2025"
+  booktitle: "COLM 25"
   url: "https://arxiv.org/pdf/2504.07247"
 
 certaindex-arxiv24:

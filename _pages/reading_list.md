@@ -85,7 +85,7 @@ title: ""
 {% include paper_item.html key="confucius-sigcomm25" required=true %}
 {% include paper_item.html key="netllm-sigcomm24" required=true %}
 {% include paper_item.html key="zoom2net-sigcomm24" required=false %}
-{% include paper_item.html key="fmp-arxiv25" required=true %}
+{% include paper_item.html key="fmp-colm25" required=true %}
 {% include paper_item.html key="textgrad-arxiv24" required=false %}
 {% include paper_item.html key="alphaevolve-whitepaper25" required=true %}
 </ul>
