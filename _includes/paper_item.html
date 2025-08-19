@@ -1,5 +1,5 @@
 {% assign p = site.data.papers[include.key] %}
 <li markdown="span">
-  {% if include.required %} <b>(Required)</b> {% endif %} <a href="{{ p.url }}">{{ p.title }}</a>
+  {% if include.required %} {% if include.required != true %} <b>(Required - {{ include.required }})</b> {% else %} <b>(Required)</b> {% endif %} {% endif %} <a href="{{ p.url }}">{{ p.title }}</a>
   {% if p.authors != "" %} <br/> <em>{{ p.authors }}</em>. {% endif %} {% if p.booktitle != "" %} {{ p.booktitle }}. {% endif %}
 </li>

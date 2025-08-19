@@ -22,7 +22,7 @@ See the [**Logistics**]({{ '/logistics/' | relative_url }}) tab for detailed inf
 
 ### What We Will Cover
 
-A tentative reading list lives on the [**Reading List**]({{ '/reading-list/' | relative_url }}) tab and draws heavily from OSDI/SOSP, ASPLOS, SIGCOMM, NSDI, MLSys and Nature papers.
+A tentative reading list lives on the [**Reading List**]({{ '/reading-list/' | relative_url }}) tab and draws heavily from top systems and ML venues, including OSDI/SOSP, ASPLOS, SIGCOMM, NSDI, MLSys, ICLR, and NeurIPS.
 
 #### Part 1 – LLMs as the Backbone of Modern AI  
 * Parallel & elastic training (3D, MoE, fault-tolerance)  

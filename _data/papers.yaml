@@ -22,6 +22,12 @@ wlbllm-osdi25:
   booktitle: "OSDI 25"
   url: "https://www.usenix.org/conference/osdi25/presentation/wang-zheng"
 
+hotspa-sosp24:
+  title: "Enabling Parallelism Hot Switching for Efficient Training of Large Language Models"
+  authors: "Hao Ge, Fangcheng Fu, Haoyang Li, Xuanyu Wang, Sheng Lin, Yujie Wang, Xiaonan Nie, Hailin Zhang, Xupeng Miao, and Bin Cui"
+  booktitle: "SOSP 24"
+  url: "https://dl.acm.org/doi/abs/10.1145/3694715.3695969"
+
 llama3-2024:
   title: "The Llama 3 Herd of Models"
   authors: "Aaron Grattafiori et al."
@@ -100,6 +106,12 @@ areal-arxiv25:
   booktitle: "Arxiv 2025"
   url: "https://arxiv.org/pdf/2505.24298"
 
+asyncrlhf-iclr25:
+  title: "Asynchronous RLHF: Faster and More Efficient Off-Policy RL for Language Models"
+  authors: "Michael Noukhovitch, Shengyi Huang, Sophie Xhonneux, Arian Hosseini, Rishabh Agarwal, Aaron Courville"
+  booktitle: "ICLR 25"
+  url: "https://arxiv.org/abs/2410.18252"
+
 hybridflow-eurosys25:
   title: "HybridFlow: A Flexible and Efficient RLHF Framework"
   authors: "Guangming Sheng, Chi Zhang, Zilingfeng Ye, Xibin Wu, Wang Zhang, Ru Zhang, Yanghua Peng, Haibin Lin, and Chuan Wu"
@@ -112,11 +124,35 @@ pagedattention-sosp23:
   booktitle: "SOSP 23"
   url: "https://arxiv.org/pdf/2309.06180.pdf"
 
+orca-osdi22:
+  title: "Orca: A Distributed Serving System for Transformer-Based Generative Models"
+  authors: "Gyeong-In Yu, Joo Seong Jeong, Geon-Woo Kim, Soojeong Kim, and Byung-Gon Chun"
+  booktitle: "OSDI 22"
+  url: "https://www.usenix.org/conference/osdi22/presentation/yu"
+
 distserve-osdi24:
   title: "DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving"
   authors: "Yinmin Zhong, Shengyu Liu, Junda Chen, Jianbo Hu, Yibo Zhu, Xuanzhe Liu, Xin Jin, and Hao Zhang"
   booktitle: OSDI 24
   url: https://www.usenix.org/conference/osdi24/presentation/zhong-yinmin
+
+loongserve-sosp24:
+  title: "LoongServe: Efficiently Serving Long-Context Large Language Models with Elastic Sequence Parallelism"
+  authors: "Bingyang Wu, Shengyu Liu, Yinmin Zhong, Peng Sun, Xuanzhe Liu, and Xin Jin"
+  booktitle: "SOSP 24"
+  url: "https://dl.acm.org/doi/pdf/10.1145/3694715.3695948"
+
+waferllm-osdi25:
+  title: "WaferLLM: Large Language Model Inference at Wafer Scale"
+  authors: "Congjie He, Yeqi Huang, Pei Mu, Ziming Miao, Jilong Xue, Lingxiao Ma, Fan Yang, Luo Mai"
+  booktitle: "OSDI 25"
+  url: "https://www.usenix.org/system/files/osdi25-he.pdf"
+
+aqua-asplos25:
+  title: "Aqua: Network-Accelerated Memory Offloading for LLMs in Scale-Up GPU Domains"
+  authors: "Abhishek Vijaya Kumar, Gianni Antichi, and Rachee Singh"
+  booktitle: "ASPLOS 25"
+  url: "https://dl.acm.org/doi/abs/10.1145/3676641.3715983"
 
 splitwise-isca24:
   title: "SplitWise: Efficient Generative LLM Inference Using Phase Splitting"
@@ -165,6 +201,12 @@ tutel-mlsys23:
   authors: "Changho Hwang, Wei Cui, Yifan Xiong, Ziyue Yang, Ze Liu, Han Hu, Zilong Wang, Rafael Salas, Jithin Jose, Prabhat Ram, HoYuen Chau, Peng Cheng, Fan Yang, Mao Yang, and Yongqiang Xiong"
   booktitle: "MLSys 23"
   url: "https://proceedings.mlsys.org/paper_files/paper/2023/hash/5616d34cf8ff73942cfd5aa922842556-Abstract-mlsys2023.html"
+
+megablock-mlsys23:
+  title: "MegaBlocks: Efficient Sparse Training with Mixture-of-Experts"
+  authors: "Trevor Gale, Deepak Narayanan, Cliff Young, and Matei Zaharia"
+  booktitle: "MLSys 23"
+  url: "https://proceedings.mlsys.org/paper_files/paper/2023/hash/5a54f79333768effe7e8927bcccffe40-Abstract-mlsys2023.html"
 
 moelight-asplos25:
   title: "MoE-Lightning: High-Throughput MoE Inference on Memory-constrained GPUs"
